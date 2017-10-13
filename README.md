@@ -12,7 +12,7 @@
 <a href="https://neverwintervault.org/project/nwn1/hakpak/tileset/nwncq-project">NWNCQ Tileset Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/gunners-body-rebuildretexture-male-female-all-races-phenos">NWN PC Races Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/fix-wings-tails">Wings/Tails + Cloaks</a><br>
-Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Backup your overrides folder before making changes just incase anything goes strange!</p>
+Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Backup your overrides folder before making changes just incase anything goes strange! Not reccomended for multiboxing clients.</p>
 <p><img src="Beatrix2.png"></p>
 </body>
 </html>
