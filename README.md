@@ -11,7 +11,8 @@
 <a href="http://docs.google.com/leaf?id=0B-1YYCjvNejCNzQyMzBhMGYtNGUwZi00OWM1LWFmZmUtZmJjZDhhZGY2ZTQ2&hl=en"> YAL - Yet Another Logger by Claus Ekstroem. Edits by Illandous. </a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/tileset/nwncq-project">NWNCQ Tileset Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/gunners-body-rebuildretexture-male-female-all-races-phenos">NWN PC Races Overrides</a><br>
-Maybe copy your NWN Folder before going nuts with the overrides just incase anything goes strange! Keep a set of vanilla clients if you multibox!</p>
+<a href="https://neverwintervault.org/project/nwn1/hakpak/fix-wings-tails">Wings/Tails and Cloaks</a><br>
+Maybe backup your overrides before going just incase anything goes strange!</p>
 <p><img src="Beatrix.png"></p>
 </body>
 </html>
