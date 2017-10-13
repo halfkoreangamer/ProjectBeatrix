@@ -18,6 +18,6 @@ Personally I like the basic NWNCQ Override package with all the content in the e
 YAL is placed in your NWN/logs folder. You must enable client chat logging in your nwnplayer.ini (ClientEntireChatWindowLogging=1 under game options). Use File -> Start a run just before your first pull and File -> End run after the end boss has been killed. This will add together the multiple log files created into a single file to be parsed later. Open your saved run log using the File -> Parse old log file. Then using the File -> Save HTML summary will give you the readout. I edit the summaries for ease of viewing before posting them here.</p>
 
 <p><a target="_blank" href="Beatrix2.png"><img src="Beatrix2.png"></a></p>
-<p style="font-size:12px">This is a fansite. ProjectB is not officially affiliated with Neversummer or any of its assosiated brands. This is a non-profit website and all materials on this site are for entertainment purposes only. Have fun!</p>
+<p style="font-size:12px">This is a fansite. ProjectB is not officially affiliated with Neversummer or any of its assosiated brands. This is a non-profit website and all materials on this site are for entertainment purposes only. Non orignal content belongs to its respective creator. Use of any files here is at ones own risk. Have fun!</p>
 </body>
 </html>
