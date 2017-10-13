@@ -13,10 +13,8 @@
 <a href="https://neverwintervault.org/project/nwn1/hakpak/tileset/nwncq-project">NWNCQ Tileset Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/gunners-body-rebuildretexture-male-female-all-races-phenos">NWN PC Races Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/fix-wings-tails">Wings/Tails + Cloaks</a><br><br>
-
-Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Backup your overrides folder before making changes just incase anything goes strange! Not reccomended for multiboxing clients.<br><br>
-
-YAL is placed in your NWN/logs folder. You must enable client chat logging in your nwnplayer.ini (ClientEntireChatWindowLogging=1 under game options). Use File -> Start a run just before your first pull and File -> End run after the end boss has been killed. This will add together the multiple log files created into a single log to be parsed later. Open your saved run log using the File -> Parse old log file. Then using the File -> Save HTML summary will give you the readout. I edit the summaries for ease of viewing before posting them here.</p>
+Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Not reccomended for multiboxing clients or potato computers. I made a copy of my client and added the above overrides for the times when i'm playing a single character. Otherwise just backup your overrides folder and give it a shot.<br><br>
+YAL is placed in your NWN/logs folder. You must enable client chat logging in your nwnplayer.ini (ClientEntireChatWindowLogging=1 under game options). Use File -> Start a run just before your first pull and File -> End run after the end boss has been killed. This will add together the multiple log files created into a single file to be parsed later. Open your saved run log using the File -> Parse old log file. Then using the File -> Save HTML summary will give you the readout. I edit the summaries for ease of viewing before posting them here.</p>
 
 <p><img src="Beatrix2.png"></p>
 
