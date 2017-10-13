@@ -12,8 +12,8 @@
 <a href="https://neverwintervault.org/project/nwn1/hakpak/tileset/nwncq-project">NWNCQ Tileset Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/gunners-body-rebuildretexture-male-female-all-races-phenos">NWN PC Races Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/fix-wings-tails">Wings/Tails + Cloaks</a><br>
-Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Backup your overrides folder before making changes just incase anything goes strange! Not reccomended for your multiboxing clients.<br>
-YAL is placed in your NWN/logs folder. You must enable client chat logging in your nwnplayer.ini. ClientEntireChatWindowLogging=1 under game options. Use File -> Start a run just before your first pull and File -> End run after end boss has been killed. This will add together the multiple log files created into a single log to be parsed later. I do some editing on the format of the output files before I post them here.</p>
+Personally I like the basic NWNCQ Override package with all the content in the extras folder added (interior ceilings). Backup your overrides folder before making changes just incase anything goes strange! Not reccomended for your multiboxing clients.<br><br>
+YAL is placed in your NWN/logs folder. You must enable client chat logging in your nwnplayer.ini (ClientEntireChatWindowLogging=1 under game options). Use File -> Start a run just before your first pull and File -> End run after end boss has been killed. This will add together the multiple log files created into a single log to be parsed later. You can then export the run as a html summary. I do some editing on the format of the output files before posting them here.</p>
 <p><img src="Beatrix2.png"></p>
 </body>
 </html>
