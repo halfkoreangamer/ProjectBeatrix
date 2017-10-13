@@ -1,6 +1,6 @@
 <html>
 <body>
-<p><img src="NS.png"></p>
+<p><a href="http://www.nsrealm.com"><img src="NS.png"></a></p>
 <h2>NS4 Run Logs</h2>
 
 <p><a href="(EPW)DragonEyrieOct11.html">(EPW) Dragon Eyrie - Oct 11 2017</a><br>
