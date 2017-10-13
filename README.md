@@ -8,7 +8,7 @@
 <h2>Useful Links</h2>
 <p><a href="http://www.nsrealm.com/ns4wiki/index.php?title=Main_Page">Neversummer 4 Wiki</a><br>
 <a href="http://www.nsrealm.com/public/ns/viewforum.php?f=139">Neversummer 4 Forum</a><br>
-<a href="http://docs.google.com/leaf?id=0B-1YYCjvNejCNzQyMzBhMGYtNGUwZi00OWM1LWFmZmUtZmJjZDhhZGY2ZTQ2&hl=en> YAL - Yet Another Logger by Claus Ekstroem. Edits by Illandous. </a><br>
+<a href="http://docs.google.com/leaf?id=0B-1YYCjvNejCNzQyMzBhMGYtNGUwZi00OWM1LWFmZmUtZmJjZDhhZGY2ZTQ2&hl=en"> YAL - Yet Another Logger by Claus Ekstroem. Edits by Illandous. </a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/tileset/nwncq-project">NWNCQ Tileset Overrides</a><br>
 <a href="https://neverwintervault.org/project/nwn1/hakpak/original-hakpak/gunners-body-rebuildretexture-male-female-all-races-phenos">NWN PC Races Overrides</a><br>
 Maybe copy your NWN Folder before going nuts with the overrides just incase anything goes strange! Keep a set of vanilla clients if you multibox!</p>
