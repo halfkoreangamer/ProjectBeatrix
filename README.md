@@ -3,7 +3,7 @@
 <p><a target="_blank" href="http://www.nsrealm.com"><img src="NS.png"></a></p>
 <h2>NS4 Run Logs</h2>
 
-<p><a target="_blank" href="(EPWeekend)DEOct14.html">(EPWeekend) Dragon Eyrie - Oct 14 </a><br>
+<p><a target="_blank" href="(EPWeekend)DEOct14.html">(EPWeekend) Dragon Eyrie - Oct 14 2017 </a><br>
 <a target="_blank" href="(EPW)DragonEyrieOct11.html">(EPW) Dragon Eyrie - Oct 11 2017</a><br>
 <a target="_blank" href="(Random)DWPOct9.html">(PickUp) Demon Web Pits - Oct 9 2017</a></p>
 
